@@ -1,15 +1,10 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About this project</h1>
+    <p>This project was developed with Vue3, typecript, Pinia, y Vue router.</p>
   </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+<script setup lang="ts">
+
+</script>
